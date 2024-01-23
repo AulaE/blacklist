@@ -1,4 +1,4 @@
-777.es
+*.777.es
 Apuestas.betfair.es
 apuestas.kirolbet.es
 apuestas.marca.es
